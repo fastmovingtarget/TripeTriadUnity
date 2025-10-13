@@ -37,3 +37,6 @@ The rules for Triple Triad come from the Final Fantasy 8 minigame.
  ## Milestone 3
   - Implement within an overworld where the player can move around and challenge AI opponents with different playstyles.
   - Attach Rules to cards, potentially with upgrade paths.
+
+Current Status:
+Milestone 1 Complete, development paused for other projects.
